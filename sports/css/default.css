@@ -49,13 +49,17 @@ a {
 	border: none;
 	background: #47a3da;
 	color: #fff;
+	opacity:0.2;
 	padding: 1.5em;
 	display: block;
-	width: 100%;
+	width: 10%;
 	cursor: pointer;
 	margin: 10px 0;
 	font-size: 0.8em;
-	margin-top:158px;	
+	float:left;
+	top:190px;
+	position:fixed;
+	
 }
 
 
